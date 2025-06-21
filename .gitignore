@@ -24,6 +24,7 @@ __pycache__/
 *.swp
 *.swm
 *~
+*.egg-info/
 
 # IPython notebook checkpoints
 .ipynb_checkpoints

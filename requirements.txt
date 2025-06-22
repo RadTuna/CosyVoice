@@ -17,6 +17,7 @@ networkx
 omegaconf
 onnx
 onnxruntime
+onnxruntime-gpu
 openai-whisper
 protobuf
 pyarrow
@@ -25,8 +26,12 @@ pyworld
 rich
 soundfile
 tensorboard
-torch
-torchaudio
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tensorrt-cu12
+tensorrt-cu12-bindings
+tensorrt-cu12-libs
 transformers
 uvicorn
 WeTextProcessing
